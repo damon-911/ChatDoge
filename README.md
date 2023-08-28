@@ -1,6 +1,6 @@
 # MyChatDoge
 
-ChatGPT API를 활용한 웹 서비스 및 안드로이드 앱 개인 프로젝트
+ChatGPT API를 활용한 웹 서비스 개인 프로젝트
 
 사용하기 전에
 
